@@ -1,0 +1,7 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  background-image: url('WasteComing.jpg');
+  background-position: center center;
+  background-size: cover;
+}
